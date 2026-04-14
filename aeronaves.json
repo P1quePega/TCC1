@@ -1,0 +1,26 @@
+{
+    "MMTS - 2025 (NEMO)": {
+        "semi_span": 900.0, "root_chord": 320.0, "tip_chord": 32.0, "n_ribs":  17,
+        "velocity": 19, "mass": 10.1, "load_factor": 2.5, "airfoil": "NACA 0012 (Simétrico)"
+    },
+    "Cargueiro SAE": {
+        "semi_span": 1100.0,
+        "root_chord": 450.0,
+        "tip_chord": 300.0,
+        "n_ribs": 16,
+        "velocity": 18.0,
+        "mass": 18.0,
+        "load_factor": 2.5,
+        "airfoil": "Selig_1223"
+    },
+    "Treinador RC Básico": {
+        "semi_span": 750.0,
+        "root_chord": 300.0,
+        "tip_chord": 200.0,
+        "n_ribs": 12,
+        "velocity": 22.0,
+        "mass": 6.0,
+        "load_factor": 4.0,
+        "airfoil": "Clark_Y"
+    }
+}
